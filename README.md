@@ -1,8 +1,7 @@
 
 # Milad Sadeghi
 
-System.out.println("Java developer with a passion for understanding the deeper workings of everything. Always eager to learn and explore new opportunities for growth.");
-
+Java developer with a passion for understanding the deeper workings of everything. Always eager to learn and explore new opportunities for growth
 
 
 
